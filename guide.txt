@@ -1,0 +1,19 @@
+1. index.html_vuecdn 코딩
+2. npm create vite@latest
+3. 선택지 모두 no
+4. App.vue_vue2_tutorial 코딩
+5. App.vue_vue3_tutorial 코딩
+6. tailwind setting: https://v2.tailwindcss.com/docs/guides/vue-3-vite
+    npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+    npx tailwindcss init -p
+7. tailwind.config.js
+8. main.css replace with tailwind
+9. primevue icon setting https://primevue.org/icons/
+9. 코딩
+10. git
+    git init
+    git add .
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/JSBeatCode/vue2024-tuto.git
+    git push -u origin main
