@@ -17,3 +17,4 @@
     git branch -M main
     git remote add origin https://github.com/JSBeatCode/vue2024-tuto.git
     git push -u origin main
+11. netlify 배포: github 계정으로 로그인 > github repo 로 배포
